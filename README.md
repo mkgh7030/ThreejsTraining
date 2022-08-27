@@ -1,2 +1,2 @@
 # ThreejsTraining
-An introductory projects which is being used for learning the THREEJS
+An introductory project which is being used for learning the THREEJS
